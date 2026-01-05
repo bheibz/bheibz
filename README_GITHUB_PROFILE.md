@@ -142,7 +142,7 @@
   ### [BHEIBZ-DIGITAL-MEDIA](https://github.com/bheibz/BHEIBZ-DIGITAL-MEDIA)
    > A comprehensive platform for digital media content and courses
    
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bheibz&repo=BHEIBZ-DIGITAL-MEDIA&theme=dark)](https:/   /github.com/bheibz/BHEIBZ-DIGITAL-MEDIA)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bheibz&repo=BHEIBZ-DIGITAL-MEDIA&theme=dark)](https://github.com/bheibz/the-power-of-berbagi)
 
 </div>
  
