@@ -1,15 +1,19 @@
 # Hi there, I'm Bheibz! 👋
-  
-   <div align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=6000&height=70&lines=Full-Stack+Developer;Digital+Media+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </div>
+
+
+
+
+
+<div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=150&center=true&vCenter=true&width=6000&height=70&lines=Full-Stack+Developer;Digital+Media+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
       
   <div align="center">
     <img height="180em" sr="https://github-readme-stats.vercel.app/api?username=bheibz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheibz&layout=compact&langs_count=7&theme=dark"/>
  </div>
- 
+
  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheibz&theme=dark" alt="GitHub Streak" />
  </div>
