@@ -29,6 +29,23 @@
 - 🎯 Goal: Creating impactful digital solutions
 - 🌍 Based in Indonesia
 
+## 💻 Technologies & Tools I Love
+ 
+ ### Operating System
+   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+   
+   ### AI & Development Tools
+   
+   ![Qwen CLI](https://img.shields.io/badge/Qwen_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+   ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+   ![Blackbox](https://img.shields.io/badge/Blackbox-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00LDZIMjBWMTJIMTRWMTZIMjBWMTJIMjRWMlpNMTAsMTZIMjBWMTJIMTBWMjBaIi8+PC9zdmc+)
+    
+   ### Browsers
+   
+   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+
+
 ## 🛠️ Technologies & Tools
 
 ### Languages
